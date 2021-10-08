@@ -12,3 +12,4 @@ included files to a minimum.
    
 Add `"westwing/zendframework1": "1.12.20"` to the require section of your 
 `composer.json`, include the composer autoloader and you're good to go.
+test
